@@ -47,27 +47,27 @@
         console.log('dateFormat', date);
         if(date === '1997-09-15') {
           this.status = 2;
-          const image1 = document.getElementById('image1');
-        const image2 = document.getElementById('image2');
-
-        // Mover las imágenes gradualmente hacia el centro
-        let currentPosition1 = 0;
-        let currentPosition2 = 0;
-
-        const moveImages = setInterval(function() {
-            currentPosition1 += 1;
-            currentPosition2 -= 1;
-
-            image1.style.left = currentPosition1 + 'px';
-            image2.style.left = currentPosition2 + 'px';
-
-            if (currentPosition1 >= 172 && currentPosition2 <= 172) {
-                clearInterval(moveImages); // Detener la animación al juntarse las imágenes
-                console.log('Imágenes juntas en el centro');
-            }
-        }, 10);
           setTimeout( () => {
             this.msge = 'MUY BIEN HECHO AMOR!!';
+            const image1 = document.getElementById('image1');
+          const image2 = document.getElementById('image2');
+
+          // Mover las imágenes gradualmente hacia el centro
+          let currentPosition1 = 0;
+          let currentPosition2 = 0;
+
+          const moveImages = setInterval(function() {
+              currentPosition1 += 1;
+              currentPosition2 -= 1;
+
+              image1.style.left = currentPosition1 + 'px';
+              image2.style.left = currentPosition2 + 'px';
+
+              if (currentPosition1 >= 50 && currentPosition2 <= 50) {
+                  clearInterval(moveImages); // Detener la animación al juntarse las imágenes
+                  console.log('Imágenes juntas en el centro');
+              }
+          }, 10);
           }, 500);
           setTimeout(() => {
             this.msge = 'ESTÁS A NADA DE VER LO QUE DICE MI CORAZÓN';
