@@ -2,7 +2,7 @@
   <div class="love">
     <div id="particles-js"></div>
     <h1 class="love-title text-gray-800">Feliz Aniversario!</h1>
-    <p class="text-dark-600 text-3xl mt-2 px-10">
+    <p class="text-gray-600 text-3xl mt-2 px-10">
       Hace un mes en una noche, se dió pase a una relación muy hermosa que ya daba señales de lograrse desde un inicio.
       <br><br>
       Un 08 de febrero te conocí de la manera más hermosa e inexplicable, ambos con el mismo destino pero no imaginaríamos que nuestras vidas se unieran.
