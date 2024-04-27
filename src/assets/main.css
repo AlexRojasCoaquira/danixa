@@ -1,5 +1,20 @@
 @import "./base.css";
 
+.about {
+  height: 100vh;
+  background: url("https://img.freepik.com/psd-gratis/fondo-celebracion-dia-san-valentin-3d_23-2150099998.jpg");
+  background-size: cover;
+  font-family: "Loved by the King", cursive;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  width: 150px;
+  position: relative;
+  /* top: 50px;
+  left: 50px; */
+  transition: all 5s ease;
+}
 .love {
   font-family: "Loved by the King", cursive;
   /* background: red; */

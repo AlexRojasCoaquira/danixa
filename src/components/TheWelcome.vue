@@ -1,7 +1,7 @@
 <template>
   <div class="love">
     <div id="particles-js"></div>
-    <h1 class="love-title text-gray-800">Feliz Aniversario!</h1>
+    <h1 class="love-title text-gray-800">¡¡Feliz Aniversario❤️!!</h1>
     <p class="text-gray-600 text-3xl mt-2 px-10">
       Hace un mes en una noche, se dió pase a una relación muy hermosa que ya daba señales de lograrse desde un inicio.
       <br><br>
@@ -32,13 +32,16 @@
       <br><br>
     </p>
     <h1 class="love-title text-red-800">TE AMOOOOO❤️!!!</h1>
+    <div class="flex justify-center w-100 mb-2">
+      <img width="250" class="text-center" src="../assets/images/juntos.jpg" alt="">
+    </div>
   </div>
 </template>
 <script setup>
 // import particle from "../utils/particles.json";
 const particle = {
   particles: {
-    number: { value: 10, density: { enable: true, value_area: 500 } },
+    number: { value: 12, density: { enable: true, value_area: 500 } },
     color: { value: "#fff" },
     shape: {
       type: "image",
