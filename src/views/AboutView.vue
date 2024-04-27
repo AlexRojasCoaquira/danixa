@@ -1,7 +1,7 @@
 <template>
   <div class="about flex justify-center items-center">
     <div class="px-5 text-center">
-      <div class="text-3xl font-bold">
+      <div class="text-3xl font-bold text-gray-800">
         Solo puede desbloquearlo con la fecha de nacimiento de su novio...
       </div>
       <br>
@@ -20,7 +20,7 @@
         <img id="image1" src="../assets/images/mickey2.png" class="img-fluid" alt="">
         <img id="image2" src="../assets/images/minie2.png" class="img-fluid" alt="">
       </div>
-      <div class="text-2xl font-bold mt-2">
+      <div class="text-2xl font-bold mt-2 text-gray-800">
         {{ msge }}
       </div>
     </div>
