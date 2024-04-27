@@ -46,6 +46,7 @@
         const date = dateActual.slice(0,10);
         console.log('dateFormat', date);
         if(date === '1997-09-15') {
+          this.status = 2;
           const image1 = document.getElementById('image1');
         const image2 = document.getElementById('image2');
 
@@ -65,7 +66,6 @@
                 console.log('Imágenes juntas en el centro');
             }
         }, 10);
-          this.status = 0;
           setTimeout( () => {
             this.msge = 'MUY BIEN HECHO AMOR!!';
           }, 500);
