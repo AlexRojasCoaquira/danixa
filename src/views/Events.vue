@@ -1,5 +1,5 @@
 <template>
-  <div class="carta mt-20">
+  <div class="carta pt-20">
     <div
       class="container-letter"
       @click="open"
@@ -136,7 +136,7 @@ body {
   gap: 3rem;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 120vh;
 }
 
 .container-letter {
