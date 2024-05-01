@@ -14,7 +14,7 @@
         <br />
         Por todo lo que hiciste y haces para salir adelante, por todo lo que aún sin experiencia le dices "sin miedo al
         éxito" y lo intentas hasta que te salga. Por tu perseverancia y constancia para hacer cosas sin pedir nada a
-        cambio, por las acciones que realizas nacidas de ti. Por tu fortaleza en situcianos difíciles para poder
+        cambio, por las acciones que realizas nacidas de ti. Por tu fortaleza en situaciones difíciles para poder
         levantarte. Por tu entrega y lucha por nuestro amor. Por todo eso y mucho más. Feliz día del trabajador! 💪
         <br />
         <span class="text-red-600"><b>TE AMO MUCHO</b></span>

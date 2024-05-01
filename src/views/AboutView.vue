@@ -107,7 +107,7 @@ export default {
           this.msge = "POR TU MES TAN ESPECIAL";
         }, 4500);
         setTimeout(() => {
-          this.msge = "POR QUE SIEMPRE FUISTE LEAL DESDE EL INICIO";
+          this.msge = "PORQUE SIEMPRE FUISTE LEAL DESDE EL INICIO";
         }, 6500);
         setTimeout(() => {
           this.msge = "MI SECRETARIA SE MERECE ESTO...";
