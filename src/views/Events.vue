@@ -7,7 +7,7 @@
       <div class="cover"></div>
       <span class="heart">♥</span>
       <p
-        class="paper text-center"
+        class="paper text-center text-gray-800"
         id="mainMessage"
       >
         <span><b>FELIZ DÍA DEL TRABAJADOR, MI AMOR</b></span>
