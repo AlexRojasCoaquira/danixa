@@ -96,7 +96,7 @@ export default {
   },
 };
 </script>
-<style>
+<style scope>
 /* reset css */
 
 * {
