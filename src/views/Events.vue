@@ -126,13 +126,14 @@ p {
 }
 
 body {
+  background-color: #fad7df;
 }
 
 .carta {
   display: flex;
   flex-direction: column;
-  background-size: cover;
-  background: url("https://img.freepik.com/foto-gratis/vista-superior-composicion-escritorio-elegante_23-2148975800.jpg?size=626&ext=jpg&ga=GA1.1.672697106.1714262400&semt=ais");
+  /* background: #fe3334; */
+  /* background: url("https://img.freepik.com/foto-gratis/vista-superior-composicion-escritorio-elegante_23-2148975800.jpg?size=626&ext=jpg&ga=GA1.1.672697106.1714262400&semt=ais"); */
   gap: 3rem;
   justify-content: center;
   align-items: center;
