@@ -126,6 +126,7 @@ p {
 }
 
 body {
+  background-size: cover;
   background: url("https://img.freepik.com/foto-gratis/vista-superior-composicion-escritorio-elegante_23-2148975800.jpg?size=626&ext=jpg&ga=GA1.1.672697106.1714262400&semt=ais");
 }
 
