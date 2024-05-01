@@ -63,7 +63,7 @@
               image1.style.left = currentPosition1 + 'px';
               image2.style.left = currentPosition2 + 'px';
 
-              if (currentPosition1 >= 35 && currentPosition2 <= 35) {
+              if (currentPosition1 >= 40 && currentPosition2 <= 40) {
                   clearInterval(moveImages); // Detener la animación al juntarse las imágenes
                   console.log('Imágenes juntas en el centro');
               }
