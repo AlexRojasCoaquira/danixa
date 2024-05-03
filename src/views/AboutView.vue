@@ -111,7 +111,7 @@ export default {
         }, 6500);
         setTimeout(() => {
           this.msge = "MI SECRETARIA SE MERECE ESTO...";
-          this.$router.push({ name: "events" });
+          this.$router.push({ name: "home" });
           this.date = null;
         }, 8500);
       } else {
